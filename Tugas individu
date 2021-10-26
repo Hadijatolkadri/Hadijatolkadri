@@ -1,0 +1,52 @@
+TUGAS INDIVIDU III
+
+1. Tuliskan Sejarah kenapa kita pertama kali belajar programing language harus menggunakan “hello world”
+
+    Siapa yang tidak kenal dengan program Hello World?
+Sebuah program yang paling sederhana di dunia. Fungsi utama dari program ini adalah menampilkan pesan ‘hello world’ ke layar.
+Hampir di setiap bahasa pemrograman menggunakan program Hello World untuk perkenalan pertama…
+Siapa yang Pertama Kali Membuat Program Hello World?
+Orang yang pertama kali menulis program Hello World adalah Brian Kernighan1. Ketika itu, beliau menulis dokumentasi untuk bahasa pemrograman BCPL (Basic Combined Programming Language) dan memberikan contoh program Hello World.
+Kapan Program Hello World Pertama Kali Muncul?
+
+    Seperti yang sudah kita ketahui bersama, program Hello World pertama kali diperkenalkan pada dokumentasi/tutorial bahasa pemrograman B.Dokumentasi tersebut terbit pada tahun 1972.Jadi, program Hello World pertama kali muncul 
+di dunia pada tahun 1972. 
+Kemudian, Hello World digunakan kembali pada dokumentasi bahasa pemrograman C (Programming in C: A Tutorial).Dokumen tersebut terbit pada tahun 1974.
+Satu tahun kemudian (1975), buku karangan Brian Kernighan bersama Dennis Ritchie yang berjudul “The C Programming Language” diterbitkan. Dalam buku tersebut juga menggunakan contoh Hello World.
+Kenapa Harus Hello World?
+Apakah Hello World dipakai karena Brian Kernighan terinspirasi dari anime HELLO WORLD?
+Jelas lah Tidak!
+Brian Kernighan sebenarnya tidak ingat betul, mengapa beliau menggunakan kata Hello World. Namun, berdasarkan wawancara Forbes India, beliau menyatakan:
+Ingatan saya sangat suram sekarang. Apa yang saya ingat adalah sebuah kartun yang menampilkan seekor telur dan anak ayam, dan anak ayam itu mengatakan “Hello, world!"
+Itulah sejarah dan asal usul program Hello World. Entah bagaimana program ini bisa begitu populer sampai saat ini. Bagaimana pendapat teman-teman?
+
+2. Jelaskan arti dari => print() pada PL Python.
+Fungsi print() berfungsi untuk mencetak atau menampilkan objek ke perangakat keluaran ( layar)  file teks.
+
+3. Jelaskan arti dari => print(“Hello world”) pada PL Python. 
+
+      Print( " hello world").
+Saat anda menjalankan script di atas anda akan melihat output berupa teka hello wordl
+
+4. Praktikkan cara eksekusi Eksekusi PL python pada
+a. Pada terminal
+b. Pada vs-code
+
+•Cara mengeksekusi menggunakan terminal
+_pertama, buat program. 
+- kedua, anda bisa klik kanan,
+- ketiga, output 
+
+•Cara mengeksekusi dengan vscode
+_Pertama, buat program
+- kedua, untuk merunningnya klik kanan kemudian pilih ( run code ) atau cara simpelnya ( CTRL+ALT+N ) 
+- ketiga, output 
+
+
+
+
+
+
+
+
+
