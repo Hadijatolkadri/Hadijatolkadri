@@ -1,0 +1,30 @@
+
+# INSTAL-FLOWGORITHM
+
+1. TUTORIAL INSTALL FLOWGORITHM
+- Pertama kunjungi website resminya ( http://www.flowgorithm.org ) 
+- setelah anda berada di laman utama pada link tersebut, klik download
+- lalu, kalian pilih yang cocok di sistem operasi anda. kalo saya ( Windows 64-Bit ) tergantung laptop kalian
+- centang yang paling bawah ( kalau mau centang semua gapapa tergantung kalian ) klik "ok" saja
+- jika downloadnya complate, klik open)
+- setelah itu kalian dibawa ke tampilan pengekstrakan, double klik aja di " setup.exe " )
+- karena saya sudah menginstallnya sebelum membuat tutor ini maka tampilannya begini 
+- kalau tampilan di kalian yang belum menginstall kalian klik "yes" untuk mengijinkan penginstallannya di pc kalian
+- setelah itu kalian tekan "oke" "oke" aja sampai ada tulisan install. kalian klik install
+- tunggu proses install sampe selesai. 
+
+2. MEMBUAT HELLO WORLD DI FLOWGORITHM
+
+- Pertama buka dulu flowgorithm yang sudah di install tadi
+- lalu kalian klik tanda panah yang ada di tengah-tengah "main" dan "end" hingga berubah menjadi warna orange lalu kalian klik kanan
+- hingga muncul tampilan kayak gini, dikarenakan kita hanya ingin membuat "Hello World" berarti tinggal pilih output karena belum melakukan proses apa-apa.
+- Selanjutnya kalian double klik aja pada tulisan output .
+- dan tuliskan "Hello World", lalu klik ok
+- tampilannya akan berubah seperti ini 
+- lalu kita tinggal run saja di tombol kiri atas bar flowgorithm
+- outputnya sudah keluar "Hello World"
+
+
+
+
+- SELESAI !!!
